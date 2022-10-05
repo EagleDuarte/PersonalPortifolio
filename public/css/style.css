@@ -2,7 +2,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-	font-family: 'Mulish', sans-serif;
+	font-family: 'Trirong', sans-serif;
 	list-style: none;
 	text-decoration: none;
 	scroll-behavior: smooth;
@@ -11,10 +11,10 @@
 :root{
 	--bg-color: #020312;
 	--text-color: #fff;
-	--main-color: #b92f2f;
+	--main-color: #55359b;
 	--second-color: rgb(164, 163, 163);
 	--other-color: #12141c;
-	--h1-font: 5.2rem;
+	--h1-font: 5rem;
 	--h2-font: 3.5rem;
 	--p-font: 1.1rem;
 }
@@ -37,12 +37,7 @@ header{
 	padding: 22px 16%;
 	border-bottom: 1px solid transparent;
 	transition: all .40s ease;
-}
-
-.logo img{
-	width: 200px;
-	height: auto;
-	margin-top: -19px;
+	background-color: black;
 }
 
 .navbar{
@@ -78,8 +73,8 @@ section{
 .home{
 	height: 100vh;
 	width: 100%;
-	background: linear-gradient(80deg, #000, #000D 22%, #0000),
-    url(../img/MainHomeRed.gif);
+	background: linear-gradient(100deg, #000, #000D 30%, #0000),
+    url(../img/NewBackGround.gif);
 	position: relative;
 	background-size: cover;
 	background-position: right;
@@ -93,7 +88,7 @@ section{
 	margin: 10px;
 	font-size: var(--h1-font);
 	font-weight: bold;
-	line-height: 1.1;
+	line-height: 0.9;
 }
 
 span{
