@@ -11,7 +11,7 @@
 :root{
 	--bg-color: #020312;
 	--text-color: #fff;
-	--main-color: #55359b;
+	--main-color: #046fa0; /* #55359b */
 	--second-color: rgb(164, 163, 163);
 	--other-color: #12141c;
 	--h1-font: 5rem;
