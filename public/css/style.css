@@ -37,7 +37,7 @@ header{
 	padding: 22px 16%;
 	border-bottom: 1px solid transparent;
 	transition: all .40s ease;
-	background-color: black;
+	background-color: rgb(0, 0, 0);
 }
 
 .navbar{
