@@ -52,6 +52,7 @@ header{
 	margin: 0 2px;
 	border-radius: 0.5rem;
 	transition: all .40s ease;
+	color: #1b88bb;
 }
 .navbar a:hover{
 	background: var(--main-color);
